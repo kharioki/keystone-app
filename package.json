@@ -1,0 +1,9 @@
+{
+  "name": "keystone-new",
+  "version": "1.0.0",
+  "description": "a simple keystone project",
+  "main": "index.js",
+  "repository": "https://github.com/kharioki/keystone-app",
+  "author": "kharioki",
+  "license": "MIT"
+}
